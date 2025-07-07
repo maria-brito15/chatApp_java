@@ -1,5 +1,7 @@
 # ChatApp Server Java
 
+[English Version Here](README_en.md)
+
 Um sistema de chat multiusuário desenvolvido em Java utilizando sockets TCP para comunicação em rede. O projeto implementa um servidor capaz de gerenciar múltiplos clientes conectados simultaneamente através de threads.
 
 > 🎯 **Primeiro Projeto em Java** - Este é meu primeiro projeto desenvolvido em Java, explorando conceitos fundamentais como programação orientada a objetos, networking com sockets e programação concorrente com threads.
